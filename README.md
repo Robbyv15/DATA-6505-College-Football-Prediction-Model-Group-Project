@@ -10,8 +10,13 @@
   
 <img width="360" alt="Screenshot 2025-05-12 at 4 47 57 PM" src="https://github.com/user-attachments/assets/7dd6432c-b60d-422a-bf02-1285b4fbabbe" />
 
-- **Samantha Barry** – Project Analyst  
+- **Samantha Barry** – Project Analyst
+
+<img width="360" alt="Screenshot 2025-05-12 at 4 53 37 PM" src="https://github.com/user-attachments/assets/47d24fe9-5f4e-4c28-9d0d-300d97e591ac" />
+
 - **Charlotte Finnerty** – Project Analyst  
+
+<img width="360" alt="Screenshot 2025-05-12 at 4 54 23 PM" src="https://github.com/user-attachments/assets/11bbbbf5-5703-4e22-89b3-d1053fa73199" />
 
   
 
