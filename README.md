@@ -1,7 +1,7 @@
 # College Football Playoff (CFP) Prediction Project
 ## 👥 Project Team
 
-###- **Evan Mansfield** – Project Lead
+### - **Evan Mansfield** – Project Lead
 
 <img width="360" alt="Screenshot 2025-05-12 at 4 52 09 PM" src="https://github.com/user-attachments/assets/c22ea41d-a0bd-4877-b27d-85aa9750216f" />
 
