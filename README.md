@@ -1,22 +1,22 @@
 # College Football Playoff (CFP) Prediction Project
 ## 👥 Project Team
 
-### - **Evan Mansfield** – Project Lead
+ - **Evan Mansfield** – Project Lead
 
-<img width="360" alt="Screenshot 2025-05-12 at 4 52 09 PM" src="https://github.com/user-attachments/assets/c22ea41d-a0bd-4877-b27d-85aa9750216f" />
+<img width="260" alt="Screenshot 2025-05-12 at 4 52 09 PM" src="https://github.com/user-attachments/assets/c22ea41d-a0bd-4877-b27d-85aa9750216f" />
 
 
-###- **Robert Villavicencio** – Data Scientist/Engineer
+- **Robert Villavicencio** – Data Scientist/Engineer
   
-<img width="360" alt="Screenshot 2025-05-12 at 4 47 57 PM" src="https://github.com/user-attachments/assets/7dd6432c-b60d-422a-bf02-1285b4fbabbe" />
+<img width="260" alt="Screenshot 2025-05-12 at 4 47 57 PM" src="https://github.com/user-attachments/assets/7dd6432c-b60d-422a-bf02-1285b4fbabbe" />
 
-###- **Samantha Barry** – Project Analyst
+- **Samantha Barry** – Project Analyst
 
-<img width="360" alt="Screenshot 2025-05-12 at 4 53 37 PM" src="https://github.com/user-attachments/assets/47d24fe9-5f4e-4c28-9d0d-300d97e591ac" />
+<img width="260" alt="Screenshot 2025-05-12 at 4 53 37 PM" src="https://github.com/user-attachments/assets/47d24fe9-5f4e-4c28-9d0d-300d97e591ac" />
 
-###- **Charlotte Finnerty** – Project Analyst  
+- **Charlotte Finnerty** – Project Analyst  
 
-<img width="360" alt="Screenshot 2025-05-12 at 4 54 23 PM" src="https://github.com/user-attachments/assets/11bbbbf5-5703-4e22-89b3-d1053fa73199" />
+<img width="260" alt="Screenshot 2025-05-12 at 4 54 23 PM" src="https://github.com/user-attachments/assets/11bbbbf5-5703-4e22-89b3-d1053fa73199" />
 
   
 
