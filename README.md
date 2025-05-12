@@ -1,4 +1,12 @@
 # College Football Playoff (CFP) Prediction Project
+## 👥 Project Team
+
+- **Cian O’Donnell** – Communication Specialist  
+- **Samantha Barry** – Project Analyst  
+- **Charlotte Finnerty** – Project Analyst  
+- **Evan Mansfield** – Project Lead  
+- **Dani Bilali** – Technical Assistant  
+- **Robert Villavicencio** – Data Scientist/Engineer
 
 This project aims to predict the College Football Playoff Bracket for the 2024 season using historical data and machine learning models. The project utilizes various data scraping techniques, data preprocessing methods, and machine learning models to make accurate predictions.
 
