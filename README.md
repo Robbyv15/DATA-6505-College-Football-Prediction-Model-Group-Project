@@ -4,7 +4,6 @@
 - **Evan Mansfield** – Project Lead    
 - **Robert Villavicencio** – Data Scientist/Engineer
 your-repo/
-├── images/
 │   └── Robert V 3.JPG
 ├── README.md
 
