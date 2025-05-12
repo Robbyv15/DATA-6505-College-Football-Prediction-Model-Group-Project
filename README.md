@@ -3,6 +3,11 @@
 
 - **Evan Mansfield** – Project Lead    
 - **Robert Villavicencio** – Data Scientist/Engineer
+  your-repo/
+├── images/
+│   └── ![Robert V 3](images/Robert%20V%203.JPG)
+├── README.md
+
 - **Samantha Barry** – Project Analyst  
 - **Charlotte Finnerty** – Project Analyst  
 
