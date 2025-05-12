@@ -3,7 +3,7 @@
 
 - **Evan Mansfield** – Project Lead
 
-![image](https://github.com/user-attachments/assets/ecce2c8c-439e-498e-ba57-d89e8ae2e033)
+<img width="360"![image](https://github.com/user-attachments/assets/ecce2c8c-439e-498e-ba57-d89e8ae2e033)>
 
 - **Robert Villavicencio** – Data Scientist/Engineer
   
