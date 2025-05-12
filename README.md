@@ -8,7 +8,7 @@
 
 - **Robert Villavicencio** – Data Scientist/Engineer
   
-  <img width="360" alt="Screenshot 2025-05-12 at 4 47 57 PM" src="https://github.com/user-attachments/assets/7dd6432c-b60d-422a-bf02-1285b4fbabbe" />
+<img width="360" alt="Screenshot 2025-05-12 at 4 47 57 PM" src="https://github.com/user-attachments/assets/7dd6432c-b60d-422a-bf02-1285b4fbabbe" />
 
 - **Samantha Barry** – Project Analyst  
 - **Charlotte Finnerty** – Project Analyst  
