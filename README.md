@@ -2,7 +2,8 @@
 ## 👥 Project Team
 
 - **Evan Mansfield** – Project Lead    
-- **Robert Villavicencio** – Data Scientist/Engineer ![Screenshot 2025-05-12 at 4 46 57 PM](https://github.com/user-attachments/assets/9bfdcfbe-8d07-4346-88bd-da8f08c6f312)
+- **Robert Villavicencio** – Data Scientist/Engineer
+  <img width="960" alt="Screenshot 2025-05-12 at 4 47 57 PM" src="https://github.com/user-attachments/assets/7dd6432c-b60d-422a-bf02-1285b4fbabbe" />
 
 - **Samantha Barry** – Project Analyst  
 - **Charlotte Finnerty** – Project Analyst  
